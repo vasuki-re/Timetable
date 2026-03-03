@@ -9,7 +9,6 @@
             "endTimeDisplay": "10:00",
             "subjectName": "Constitution",
             "facultyName": "Prof. Shanthala Patil",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -20,7 +19,6 @@
             "endTimeDisplay": "11:00",
             "subjectName": "Chemistry",
             "facultyName": "Prof. Monika T D",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -31,7 +29,6 @@
             "endTimeDisplay": "11:15",
             "subjectName": "Break",
             "facultyName": "",
-            "room": "",
             "isBreakOrLunch": true
         },
         {
@@ -42,7 +39,6 @@
             "endTimeDisplay": "12:15",
             "subjectName": "Maths",
             "facultyName": "Prof. Jeevana R M",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -53,7 +49,6 @@
             "endTimeDisplay": "1:15",
             "subjectName": "AI",
             "facultyName": "Prof. Sourna Lakshmi P",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -64,7 +59,6 @@
             "endTimeDisplay": "2:00",
             "subjectName": "Lunch",
             "facultyName": "",
-            "room": "",
             "isBreakOrLunch": true
         },
         {
@@ -75,7 +69,6 @@
             "endTimeDisplay": "3:00",
             "subjectName": "Counselling",
             "facultyName": "",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -86,7 +79,6 @@
             "endTimeDisplay": "11:00",
             "subjectName": "Chem/Py Lab",
             "facultyName": "Prof. LTD+MTD/Prachita",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -97,7 +89,6 @@
             "endTimeDisplay": "11:15",
             "subjectName": "Break",
             "facultyName": "",
-            "room": "",
             "isBreakOrLunch": true
         },
         {
@@ -108,7 +99,6 @@
             "endTimeDisplay": "12:15",
             "subjectName": "Maths",
             "facultyName": "Prof. Jeevana R M",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -119,7 +109,6 @@
             "endTimeDisplay": "1:15",
             "subjectName": "Mechanical",
             "facultyName": "Dr. Jagadeesh H",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -130,7 +119,6 @@
             "endTimeDisplay": "2:00",
             "subjectName": "Lunch",
             "facultyName": "",
-            "room": "",
             "isBreakOrLunch": true
         },
         {
@@ -141,7 +129,6 @@
             "endTimeDisplay": "3:00",
             "subjectName": "AI",
             "facultyName": "Prof. Sourna Lakshmi P",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -152,7 +139,6 @@
             "endTimeDisplay": "10:00",
             "subjectName": "Python",
             "facultyName": "Prof. Prachita M",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -163,7 +149,6 @@
             "endTimeDisplay": "11:00",
             "subjectName": "Maths",
             "facultyName": "Prof. Jeevana R M",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -174,7 +159,6 @@
             "endTimeDisplay": "11:15",
             "subjectName": "Break",
             "facultyName": "",
-            "room": "",
             "isBreakOrLunch": true
         },
         {
@@ -185,7 +169,6 @@
             "endTimeDisplay": "1:15",
             "subjectName": "Communication",
             "facultyName": "Prof. Swarna Ruben",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -196,7 +179,6 @@
             "endTimeDisplay": "2:00",
             "subjectName": "Lunch",
             "facultyName": "",
-            "room": "",
             "isBreakOrLunch": true
         },
         {
@@ -207,7 +189,6 @@
             "endTimeDisplay": "4:00",
             "subjectName": "Chem/Py Lab",
             "facultyName": "Prof. LTD+MTD/Prachita",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -218,7 +199,6 @@
             "endTimeDisplay": "10:00",
             "subjectName": "Python",
             "facultyName": "Prof. Prachita M",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -229,7 +209,6 @@
             "endTimeDisplay": "11:00",
             "subjectName": "Chemistry",
             "facultyName": "Prof. Monika T D",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -240,7 +219,6 @@
             "endTimeDisplay": "11:15",
             "subjectName": "Break",
             "facultyName": "",
-            "room": "",
             "isBreakOrLunch": true
         },
         {
@@ -251,7 +229,6 @@
             "endTimeDisplay": "12:15",
             "subjectName": "Mechanical",
             "facultyName": "Dr. Jagadeesh H",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -262,7 +239,6 @@
             "endTimeDisplay": "1:15",
             "subjectName": "Maths",
             "facultyName": "Prof. Jeevana R M",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -273,7 +249,6 @@
             "endTimeDisplay": "2:00",
             "subjectName": "Lunch",
             "facultyName": "",
-            "room": "",
             "isBreakOrLunch": true
         },
         {
@@ -284,7 +259,6 @@
             "endTimeDisplay": "3:00",
             "subjectName": "AI",
             "facultyName": "Prof. Sourna Lakshmi P",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -295,7 +269,6 @@
             "endTimeDisplay": "10:00",
             "subjectName": "Maths",
             "facultyName": "Prof. Jeevana R M",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -306,7 +279,6 @@
             "endTimeDisplay": "11:00",
             "subjectName": "Mechanical",
             "facultyName": "Dr. Jagadeesh H",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -317,7 +289,6 @@
             "endTimeDisplay": "11:15",
             "subjectName": "Break",
             "facultyName": "",
-            "room": "",
             "isBreakOrLunch": true
         },
         {
@@ -328,7 +299,6 @@
             "endTimeDisplay": "12:15",
             "subjectName": "Chemistry",
             "facultyName": "Prof. Monika T D",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -339,7 +309,6 @@
             "endTimeDisplay": "1:15",
             "subjectName": "Python",
             "facultyName": "Prof. Prachita M",
-            "room": "",
             "isBreakOrLunch": false
         },
         {
@@ -350,7 +319,6 @@
             "endTimeDisplay": "2:00",
             "subjectName": "Lunch",
             "facultyName": "",
-            "room": "",
             "isBreakOrLunch": true
         },
         {
@@ -361,7 +329,6 @@
             "endTimeDisplay": "4:00",
             "subjectName": "IDT",
             "facultyName": "",
-            "room": "",
             "isBreakOrLunch": false
         }
     ]
