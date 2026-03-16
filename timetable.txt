@@ -1,0 +1,37 @@
+2 | 9:00 | 10:00 | Constitution | Prof. Shanthala Patil
+2 | 10:00 | 11:00 | Chemistry | Prof. Monika T D
+2 | 11:00 | 11:15 | Break |
+2 | 11:15 | 12:15 | Maths | Prof. Jeevana R M
+2 | 12:15 | 1:15 | AI | Prof. Sourna Lakshmi P
+2 | 1:15 | 2:00 | Lunch |
+2 | 2:00 | 3:00 | Counselling |
+
+3 | 9:00 | 11:00 | Chem/Py Lab | Prof. LTD+MTD/Prachita
+3 | 11:00 | 11:15 | Break |
+3 | 11:15 | 12:15 | Maths | Prof. Jeevana R M
+3 | 12:15 | 1:15 | Mechanical | Dr. Jagadeesh H
+3 | 1:15 | 2:00 | Lunch |
+3 | 2:00 | 3:00 | AI | Prof. Sourna Lakshmi P
+
+4 | 9:00 | 10:00 | Python | Prof. Prachita M
+4 | 10:00 | 11:00 | Maths | Prof. Jeevana R M
+4 | 11:00 | 11:15 | Break |
+4 | 11:15 | 1:15 | Communication | Prof. Swarna Ruben
+4 | 1:15 | 2:00 | Lunch |
+4 | 2:00 | 4:00 | Chem/Py Lab | Prof. LTD+MTD/Prachita
+
+5 | 9:00 | 10:00 | Python | Prof. Prachita M
+5 | 10:00 | 11:00 | Chemistry | Prof. Monika T D
+5 | 11:00 | 11:15 | Break |
+5 | 11:15 | 12:15 | Mechanical | Dr. Jagadeesh H
+5 | 12:15 | 1:15 | Maths | Prof. Jeevana R M
+5 | 1:15 | 2:00 | Lunch |
+5 | 2:00 | 3:00 | AI | Prof. Sourna Lakshmi P
+
+6 | 9:00 | 10:00 | Maths | Prof. Jeevana R M
+6 | 10:00 | 11:00 | Mechanical | Dr. Jagadeesh H
+6 | 11:00 | 11:15 | Break |
+6 | 11:15 | 12:15 | Chemistry | Prof. Monika T D
+6 | 12:15 | 1:15 | Python | Prof. Prachita M
+6 | 1:15 | 2:00 | Lunch |
+6 | 2:00 | 4:00 | IDT |
