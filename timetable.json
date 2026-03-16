@@ -72,16 +72,6 @@
             "isBreakOrLunch": false
         },
         {
-            "dayOfWeek": 2,
-            "startTimeMinutes": 900,
-            "endTimeMinutes": 960,
-            "startTimeDisplay": "3:00",
-            "endTimeDisplay": "4:00",
-            "subjectName": "Chemistry",
-            "facultyName": "Prof. Monika T D",
-            "isBreakOrLunch": false
-        },
-        {
             "dayOfWeek": 3,
             "startTimeMinutes": 540,
             "endTimeMinutes": 660,
@@ -139,6 +129,16 @@
             "endTimeDisplay": "3:00",
             "subjectName": "AI",
             "facultyName": "Prof. Sourna Lakshmi P",
+            "isBreakOrLunch": false
+        },
+        {
+            "dayOfWeek": 3,
+            "startTimeMinutes": 900,
+            "endTimeMinutes": 960,
+            "startTimeDisplay": "3:00",
+            "endTimeDisplay": "4:00",
+            "subjectName": "Chemistry",
+            "facultyName": "Prof. Monika T D",
             "isBreakOrLunch": false
         },
         {
