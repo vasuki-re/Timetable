@@ -1,5 +1,5 @@
 {
-    "version": 1.0,
+    "version": 1.1,
     "classes": [
         {
             "dayOfWeek": 2,
@@ -69,6 +69,16 @@
             "endTimeDisplay": "3:00",
             "subjectName": "Counselling",
             "facultyName": "",
+            "isBreakOrLunch": false
+        },
+        {
+            "dayOfWeek": 2,
+            "startTimeMinutes": 900,
+            "endTimeMinutes": 960,
+            "startTimeDisplay": "3:00",
+            "endTimeDisplay": "4:00",
+            "subjectName": "Chemistry",
+            "facultyName": "Prof. Monika T D",
             "isBreakOrLunch": false
         },
         {
