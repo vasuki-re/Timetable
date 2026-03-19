@@ -17,15 +17,14 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install Google API Client
-        run: npm install googleapis
-
       - name: Send FCM Notification
         env:
           FCM: ${{ secrets.FCM }}
         run: |
+          npm install google-auth-library
+          
           cat << 'EOF' > send_fcm.js
-          const { google } = require('googleapis');
+          const { JWT } = require('google-auth-library');
           const https = require('https');
 
           async function sendNotification() {
@@ -37,14 +36,13 @@ jobs:
             const serviceAccount = JSON.parse(process.env.FCM);
             const projectId = serviceAccount.project_id;
             
-            const jwtClient = new google.auth.JWT(
-              serviceAccount.client_email,
-              null,
-              serviceAccount.private_key,
-              ['https://www.googleapis.com/auth/firebase.messaging']
-            );
+            const client = new JWT({
+              email: serviceAccount.client_email,
+              key: serviceAccount.private_key,
+              scopes: ['https://www.googleapis.com/auth/firebase.messaging'],
+            });
             
-            const tokens = await jwtClient.authorize();
+            const tokens = await client.authorize();
             const accessToken = tokens.access_token;
             
             const payload = JSON.stringify({
