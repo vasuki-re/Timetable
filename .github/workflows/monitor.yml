@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -26,11 +28,35 @@ jobs:
           cat << 'EOF' > send_fcm.js
           const { JWT } = require('google-auth-library');
           const https = require('https');
+          const util = require('util');
+          const exec = util.promisify(require('child_process').exec);
 
           async function sendNotification() {
             if (!process.env.FCM) {
               console.error("Missing FCM secret.");
               process.exit(1);
+            }
+
+            let addedStr = "";
+            let deletedStr = "";
+            try {
+              const { stdout } = await exec('git diff HEAD~1 HEAD -- timetable.txt');
+              const lines = stdout.split('\n');
+              const added = [];
+              const deleted = [];
+              for (const line of lines) {
+                if (line.startsWith('+') && !line.startsWith('+++')) {
+                  added.push(line.substring(1).trim());
+                } else if (line.startsWith('-') && !line.startsWith('---')) {
+                  deleted.push(line.substring(1).trim());
+                }
+              }
+              addedStr = added.filter(l => l.length > 0).join('\n');
+              deletedStr = deleted.filter(l => l.length > 0).join('\n');
+              console.log("Added lines:", addedStr);
+              console.log("Deleted lines:", deletedStr);
+            } catch (error) {
+              console.error("Error getting git diff (maybe first commit?):", error);
             }
             
             const serviceAccount = JSON.parse(process.env.FCM);
@@ -49,7 +75,9 @@ jobs:
               message: {
                 topic: "timetable_updates",
                 data: {
-                  action: "update_timetable"
+                  action: "update_timetable_partial",
+                  added: addedStr,
+                  deleted: deletedStr
                 }
               }
             });
