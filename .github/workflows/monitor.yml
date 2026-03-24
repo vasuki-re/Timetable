@@ -37,6 +37,7 @@ jobs:
               process.exit(1);
             }
 
+            let action = "update_timetable_partial";
             let addedStr = "";
             let deletedStr = "";
             try {
@@ -57,6 +58,7 @@ jobs:
               console.log("Deleted lines:", deletedStr);
             } catch (error) {
               console.error("Error getting git diff (maybe first commit?):", error);
+              action = "update_timetable"; 
             }
             
             const serviceAccount = JSON.parse(process.env.FCM);
@@ -71,16 +73,28 @@ jobs:
             const tokens = await client.authorize();
             const accessToken = tokens.access_token;
             
-            const payload = JSON.stringify({
+            let payload = JSON.stringify({
               message: {
                 topic: "timetable_updates",
                 data: {
-                  action: "update_timetable_partial",
+                  action: action,
                   added: addedStr,
                   deleted: deletedStr
                 }
               }
             });
+
+            if (Buffer.byteLength(payload) > 3500) {
+                console.warn("Payload too large for partial update, falling back to full update.");
+                payload = JSON.stringify({
+                    message: {
+                        topic: "timetable_updates",
+                        data: {
+                            action: "update_timetable"
+                        }
+                    }
+                });
+            }
             
             const options = {
               hostname: 'fcm.googleapis.com',
