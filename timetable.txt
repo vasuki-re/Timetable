@@ -23,8 +23,7 @@
 5 | 11:00 | 11:15 | Break |
 5 | 11:15 | 12:15 | Mechanical | Dr. Jagadeesh H
 5 | 12:15 | 1:15 | Maths | Prof. Jeevana R M
-5 | 1:15 | 2:00 | Lunch |
-5 | 2:00 | 3:00 | AI | Prof. Sourna Lakshmi P
+
 6 | 9:00 | 10:00 | Maths | Prof. Jeevana R M
 6 | 10:00 | 11:00 | Mechanical | Dr. Jagadeesh H
 6 | 11:00 | 11:15 | Break |
