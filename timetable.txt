@@ -30,3 +30,4 @@
 6 | 1:15 | 2:00 | Lunch
 6 | 2:00 | 4:00 | IDT
 7 | 9:00 | 11:00 | Chemistry | Prof. Monika T D
+7 | 10:00 | 11:00 | Constitution | Prof. Shanthala Patil
