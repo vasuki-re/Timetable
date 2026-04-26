@@ -1,3 +1,4 @@
+2 | 1:15 | 2:00 | Break
 2 | 9:00 | 10:00 | Constitution | Prof. Shanthala Patil
 2 | 10:00 | 11:00 | Chemistry | Prof. Monika T D
 2 | 11:00 | 11:15 | Break
