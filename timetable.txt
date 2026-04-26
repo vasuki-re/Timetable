@@ -1,8 +1,8 @@
 2 | 9:00 | 10:00 | Constitution | Prof. Shanthala Patil
 2 | 10:00 | 11:00 | Chemistry | Prof. Monika T D
 2 | 11:00 | 11:15 | Break
-2 | 11:15 | 12:15 | AI | Prof. Sourna Lakshmi P
-2 | 12:15 | 1:15 | Maths | Prof. Jeevana R M
+2 | 11:15 | 12:15 | Maths | Prof. Jeevana R M
+2 | 12:15 | 1:15 | AI | Prof. Sourna Lakshmi P
 3 | 9:00 | 11:00 | Chem/Py Lab | Prof. LTD+MTD/Prachita
 3 | 11:00 | 11:15 | Break
 3 | 11:15 | 12:15 | Maths | Prof. Jeevana R M
