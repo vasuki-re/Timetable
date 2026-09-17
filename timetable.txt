@@ -1,31 +1,33 @@
-2 | 9:00 | 10:00 | Constitution | Prof. Shanthala Patil
-2 | 10:00 | 11:00 | Chemistry | Prof. Monika T D
+1 | 9:00 | 10:00 | DDCO | Prof. George Aromstrong
+1 | 10:00 | 11:00 | DS | Prof. Bhargavi G
+1 | 11:00 | 11:15 | Break
+1 | 11:15 | 12:15 | OS | Prof. Saniya Nishath
+1 | 12:15 | 1:15 | DDCO | Prof. George Aromstrong
+1 | 1:15 | 2:00 | Lunch
+1 | 2:00 | 3:00 | OS | Prof. Saniya Nishath
+1 | 3:00 | 4:00 | PDS(T) | Prof. Asha A L
+2 | 9:00 | 11:00 | OOPS LAB | Prof. Tejashwini B P / Prof. Saniya Nishath
 2 | 11:00 | 11:15 | Break
-2 | 11:15 | 12:15 | Maths | Prof. Jeevana R M
-2 | 12:15 | 1:15 | AI | Prof. Sourna Lakshmi P
-3 | 9:00 | 11:00 | Chem/Py Lab | Prof. LTD+MTD/Prachita
+2 | 11:15 | 12:15 | DS | Prof. Bhargavi G
+2 | 12:15 | 1:15 | PDS | Prof. Asha A L
+2 | 1:15 | 2:00 | Lunch
+2 | 2:00 | 3:00 | PDS(T) | Prof. Asha A L
+2 | 3:00 | 4:00 | DS | Prof. Bhargavi G
+3 | 9:00 | 10:00 | OOPS | Prof. Tejashwini B P
+3 | 10:00 | 11:00 | OS | Prof. Saniya Nishath
 3 | 11:00 | 11:15 | Break
-3 | 11:15 | 12:15 | Maths | Prof. Jeevana R M
-3 | 12:15 | 1:15 | Mechanical | Dr. Jagadeesh H
+3 | 11:15 | 1:15 | PMGL | Prof. Suchitra Devi A / Ms. Madhura
 3 | 1:15 | 2:00 | Lunch
-3 | 2:00 | 3:00 | AI | Prof. Sourna Lakshmi P
-4 | 9:00 | 10:00 | Python | Prof. Prachita M
-4 | 10:00 | 11:00 | Maths | Prof. Jeevana R M
+4 | 9:00 | 10:00 | PDS | Prof. Asha A L
+4 | 10:00 | 11:00 | OOPS | Prof. Tejashwini B P
 4 | 11:00 | 11:15 | Break
-4 | 11:15 | 1:15 | Communication | Prof. Swarna Ruben
+4 | 11:15 | 1:15 | DSL C1/DSL C2 | Prof. Roshini P / Prof. Tejashwini B P
 4 | 1:15 | 2:00 | Lunch
-4 | 2:00 | 4:00 | Py/Chem Lab | Prof. LTD+MTD/Prachita
-5 | 9:00 | 10:00 | Python | Prof. Prachita M
-5 | 10:00 | 11:00 | Chemistry | Prof. Monika T D
+4 | 2:00 | 4:00 | COMMUNITY PROJECT | Dr. Basavaraj / Prof. Kaveri
+5 | 9:00 | 10:00 | PDS | Prof. Asha A L
+5 | 10:00 | 11:00 | OOPS | Prof. Tejashwini B P
 5 | 11:00 | 11:15 | Break
-5 | 11:15 | 12:15 | Mechanical | Dr. Jagadeesh H
-5 | 12:15 | 1:15 | Maths | Prof. Jeevana R M
+5 | 11:15 | 12:15 | DDCO | Prof. George Aromstrong
+5 | 12:15 | 1:15 | DDCO | Prof. George Aromstrong
 5 | 1:15 | 2:00 | Lunch
-5 | 2:00 | 3:00 | AI | Prof. Sourna Lakshmi P
-6 | 9:00 | 10:00 | Maths | Prof. Jeevana R M
-6 | 10:00 | 11:00 | Mechanical | Dr. Jagadeesh H
-6 | 11:00 | 11:15 | Break
-6 | 11:15 | 12:15 | Python | Prof. Prachita M
-6 | 12:15 | 1:15 | Chemistry | Prof. Monika T D
-6 | 1:15 | 2:00 | Lunch
-6 | 2:00 | 4:00 | IDT
+5 | 2:00 | 4:00 | NSS | Prof. Giridhar Rao / Prof. Bhargavi G
