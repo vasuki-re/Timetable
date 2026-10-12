@@ -11,21 +11,21 @@
 3 | 11:15 | 12:15 | DS | Prof. Bhargavi G
 3 | 12:15 | 1:15 | PDS | Prof. Asha A L
 3 | 1:15 | 2:00 | Lunch
-3 | 2:00 | 3:00 | PDS(T) | Prof. Asha A L
-3 | 3:00 | 4:00 | DS | Prof. Bhargavi G
-4 | 9:00 | 10:00 | OOPS | Prof. Tejashwini B P
+4 | 9:00 | 10:00 | PDS | Prof. Asha A L
 4 | 10:00 | 11:00 | OS | Prof. Saniya Nishath
 4 | 11:00 | 11:15 | Break
-4 | 11:15 | 1:15 | PMGL | Prof. Suchitra Devi A / Ms. Madhura
+4 | 11:15 | 12:15 | OOPS | Prof. Jyothi S S
+4 | 12:15 | 1:15 | OOPS | Prof. Jyothi S S
 4 | 1:15 | 2:00 | Lunch
+4 | 2:00 | 4:00 | DSL C1/DSL C2 | Prof. Roshini P / Prof. Tejashwini B P
 5 | 9:00 | 10:00 | PDS | Prof. Asha A L
-5 | 10:00 | 11:00 | OOPS | Prof. Tejashwini B P
+5 | 10:00 | 11:00 | OOPS | Prof. Jyothi S S
 5 | 11:00 | 11:15 | Break
-5 | 11:15 | 1:15 | DSL C1/DSL C2 | Prof. Roshini P / Prof. Tejashwini B P
+5 | 11:15 | 1:15 | PMGL | Prof. Indi Jayashree / Prof. Bhargavi G
 5 | 1:15 | 2:00 | Lunch
 5 | 2:00 | 4:00 | COMMUNITY PROJECT | Dr. Basavaraj / Prof. Kaveri
 6 | 9:00 | 10:00 | PDS | Prof. Asha A L
-6 | 10:00 | 11:00 | OOPS | Prof. Tejashwini B P
+6 | 10:00 | 11:00 | DS | Prof. Bhargavi G
 6 | 11:00 | 11:15 | Break
 6 | 11:15 | 12:15 | DDCO | Prof. George Aromstrong
 6 | 12:15 | 1:15 | DDCO | Prof. George Aromstrong
